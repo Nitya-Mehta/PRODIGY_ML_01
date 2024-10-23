@@ -29,3 +29,5 @@ Price=(100×Square Footage)+(20,000×Bedrooms)+(15,000×Bathrooms)+Random Nois
 
 ## 📈 Results
 The linear regression model provides insights into how features like square footage, number of bedrooms, and bathrooms affect house prices.
+
+**Dataset Used:** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
